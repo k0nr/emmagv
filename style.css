@@ -20,7 +20,8 @@ p {
 }
     
 
-.image-fill-wide {
+
+.page {
     width: 100%;
     height: auto;
 }
@@ -35,10 +36,11 @@ p {
     width:100%;
     max-width:600px;
     margin:auto;
-
-
 }
 
+.nav {
+    text-align: center;
+}
 
 </style>
 
